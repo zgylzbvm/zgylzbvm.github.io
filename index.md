@@ -11,9 +11,23 @@ title: 赵高阳 | 个人主页
 
 ## 👤 个人简介 (About Me)
 
-我是赵高阳，博士毕业于**国防科技大学**计算机学院。目前，我隶属于**清华大学**计算机科学与技术系**高性能计算研究所**。
+我是赵高阳，博士毕业于**国防科技大学**计算机学院微电子与微处理器研究所。目前，我隶属于**清华大学**计算机科学与技术系**高性能计算研究所**。
 
 我的研究聚焦于**计算机系统结构**，致力于解决大规模计算系统中的性能、能效与“内存墙”瓶颈。
+
+## 🎓 教育经历 (Education)
+
+**国防科技大学** (National University of Defense Technology) | 计算机学院
+*博士，计算机系统结构* | [2021] - [2025]
+- **指导教师 (Advisors)**: 王耀华 教授 (Prof. Yaohua Wang), 王永文 教授 (Prof. Yongwen Wang), 马胜 教授 (Prof. Sheng Ma)
+- **研究课题 (Thesis)**: SRAM存内计算架构下的比特稀疏性挖掘加速 
+  *(Bit Sparsity Exploitation and Acceleration based on SRAM In-Memory Computing Architecture)*
+
+**中国科学院上海微系统与信息技术研究所** (SIMIT, UCAS) | 集成电路材料全国重点实验室
+*工学硕士，微电子学与固体电子学* | [2017] - [2020]
+- **指导教师 (Advisor)**: 刘卫丽 教授 (Prof. Weili Liu)
+- **研究课题 (Thesis)**: 第三代半导体碳化硅晶圆的化学机械抛光技术研究 
+  *(Research on Chemical Mechanical Polishing Technology for Third-Generation Semiconductor Silicon Carbide Wafers)*
 
 ## 🔬 研究兴趣 (Research Interests)
 
