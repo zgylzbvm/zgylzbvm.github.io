@@ -18,13 +18,13 @@ title: 赵高阳 | 个人主页
 ## 🎓 教育经历 (Education)
 
 **国防科技大学** (National University of Defense Technology) | 计算机学院
-*博士，计算机系统结构* | [2021] - [2025]
+*工学博士，计算机系统结构* | 2021 - 2025
 - **指导教师 (Advisors)**: 王耀华 教授 (Prof. Yaohua Wang), 王永文 教授 (Prof. Yongwen Wang), 马胜 教授 (Prof. Sheng Ma)
 - **研究课题 (Thesis)**: SRAM存内计算架构下的比特稀疏性挖掘加速 
   *(Bit Sparsity Exploitation and Acceleration based on SRAM In-Memory Computing Architecture)*
 
 **中国科学院上海微系统与信息技术研究所** (SIMIT, UCAS) | 集成电路材料全国重点实验室
-*工学硕士，微电子学与固体电子学* | [2017] - [2020]
+*工学硕士，微电子学与固体电子学* | 2017 - 2020
 - **指导教师 (Advisor)**: 刘卫丽 教授 (Prof. Weili Liu)
 - **研究课题 (Thesis)**: 第三代半导体碳化硅晶圆的化学机械抛光技术研究 
   *(Research on Chemical Mechanical Polishing Technology for Third-Generation Semiconductor Silicon Carbide Wafers)*
