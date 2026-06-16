@@ -1,53 +1,59 @@
----
-layout: default
-title: 赵高阳 | 个人主页
----
+# 赵高阳 \| 个人主页
 
-# 赵高阳 (Gaoyang Zhao)
+# 赵高阳 \(Gaoyang Zhao\)
 
 > 探索高性能计算与下一代计算机体系结构
+> 
+> 
 
----
-
-## 👤 个人简介 (About Me)
+## 👤 个人简介 \(About Me\)
 
 我是赵高阳，博士毕业于**国防科技大学**计算机学院微电子与微处理器研究所。目前，我隶属于**清华大学**计算机科学与技术系**高性能计算研究所**。
 
 我的研究聚焦于**计算机系统结构**，致力于解决大规模计算系统中的性能、能效与“内存墙”瓶颈。
 
-## 🎓 教育经历 (Education)
+## 🎓 教育经历 \(Education\)
 
-**国防科技大学** (National University of Defense Technology) | 计算机学院
-*工学博士，计算机系统结构* | 2021 - 2025
-- **指导教师 (Advisors)**: 王耀华 教授 (Prof. Yaohua Wang), 王永文 教授 (Prof. Yongwen Wang), 马胜 教授 (Prof. Sheng Ma)
-- **研究课题 (Thesis)**: SRAM存内计算架构下的比特稀疏性挖掘加速 
-  *(Bit Sparsity Exploitation and Acceleration based on SRAM In-Memory Computing Architecture)*
+### 国防科技大学 \(National University of Defense Technology\) \| 计算机学院
 
-**中国科学院上海微系统与信息技术研究所** (SIMIT, UCAS) | 集成电路材料全国重点实验室
-*工学硕士，微电子学与固体电子学* | 2017 - 2020
-- **指导教师 (Advisor)**: 刘卫丽 教授 (Prof. Weili Liu)
-- **研究课题 (Thesis)**: 第三代半导体碳化硅晶圆的化学机械抛光技术研究 
-  *(Research on Chemical Mechanical Polishing Technology for Third-Generation Semiconductor Silicon Carbide Wafers)*
+*工学博士，计算机系统结构* \| 2021 \- 2025
 
-## 🔬 研究兴趣 (Research Interests)
+- **指导教师 \(Advisors\)**: 王耀华 教授 \(Prof\. Yaohua Wang\), 王永文 教授 \(Prof\. Yongwen Wang\), 马胜 教授 \(Prof\. Sheng Ma\)
+
+- **研究课题 \(Thesis\)**: SRAM存内计算架构下的比特稀疏性挖掘加速 \(Bit Sparsity Exploitation and Acceleration based on SRAM In\-Memory Computing Architecture\)
+
+### 中国科学院上海微系统与信息技术研究所 \(SIMIT, UCAS\) \| 集成电路材料全国重点实验室
+
+*工学硕士，微电子学与固体电子学* \| 2017 \- 2020
+
+- **指导教师 \(Advisor\)**: 刘卫丽 教授 \(Prof\. Weili Liu\)
+
+- **研究课题 \(Thesis\)**: 第三代半导体碳化硅晶圆的化学机械抛光技术研究 \(Research on Chemical Mechanical Polishing Technology for Third\-Generation Semiconductor Silicon Carbide Wafers\)
+
+## 🔬 研究兴趣 \(Research Interests\)
 
 我的研究兴趣涵盖硬件架构与系统软件的协同设计，主要包括：
 
-- 🚀 **并行计算架构** (Parallel Computing Architecture)
-- 🧠 **大模型推理加速**：超节点芯片架构下的大语言模型高效推理 (LLM Inference on Super-node Chip Architectures)
-- 🌐 **分布式系统**：分布式环境下的远程内存访问与优化 (Remote Memory Access)
-- 💾 **新型计算架构**：内存内处理与计算 (Processing-in-Memory / In-Memory Computing)
+- 🚀 **并行计算架构** \(Parallel Computing Architecture\)
 
-## 📬 联系与学术链接 (Contact & Links)
+- 🧠 **大模型推理加速** \(LLM Inference on Super\-node Chip Architectures\)：超节点芯片架构下的大语言模型高效推理优化
 
-欢迎通过以下方式与我联系，或了解我的最新研究工作：
+- 🌐 **分布式系统** \(Remote Memory Access\)：分布式环境下的远程内存访问优化与集群通信架构
 
-- 📧 **Email**: [gyzhaoln@163.com](mailto:gyzhaoln@163.com)
-- 🎓 **Google Scholar**: [访问我的谷歌学术主页](https://scholar.google.com/citations?user=SJ2NsSQAAAAJ&hl=en)
+- 💾 **新型计算架构** \(PIM / IMC\)：存内计算、近内存计算等新型高能效计算架构
+
+- ⚡ **存储器架构与电路设计** \(Memory Architecture \& Circuit Design\)：易失性/非易失性存储器架构优化、存储核心电路设计、新型存储介质适配技术、存储器硬件安全
+
+## 📬 联系与学术链接 \(Contact \& Links\)
+
+欢迎通过以下方式与我联系，期待学术交流与科研合作！
+
+- 📧 **Email**: [gyzhaoln@163\.com](mailto:gyzhaoln@163.com)
+
+- 🎓 **Google Scholar**: [https://scholar\.google\.com/citations?user=SJ2NsSQAAAAJ\&hl=en](https://scholar.google.com/citations?user=SJ2NsSQAAAAJ&amp;hl=en)
+
 - 🏛️ **Affiliation**: 清华大学计算机系 · 高性能计算研究所
 
----
+*欢迎访问我的学术主页，期待与您的交流与合作！*
 
-<p align="center">
-  <i>欢迎访问我的学术主页，期待与您的交流与合作！</i>
-</p>
+> 
