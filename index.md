@@ -1,4 +1,3 @@
-# 赵高阳 \| 个人主页
 
 # 赵高阳 \(Gaoyang Zhao\)
 
@@ -20,7 +19,7 @@
 
 - **指导教师 \(Advisors\)**: 王耀华 教授 \(Prof\. Yaohua Wang\), 王永文 教授 \(Prof\. Yongwen Wang\), 马胜 教授 \(Prof\. Sheng Ma\)
 
-- **研究课题 \(Thesis\)**: SRAM存内计算架构下的比特稀疏性挖掘加速 \(Bit Sparsity Exploitation and Acceleration based on SRAM In\-Memory Computing Architecture\)
+- **研究课题 \(Thesis\)**: SRAM存内计算架构下的比特稀疏性挖掘加速 \(Bit-level Sparsity Exploitation and Acceleration based on SRAM In\-Memory Computing Architecture\)
 
 ### 中国科学院上海微系统与信息技术研究所 \(SIMIT, UCAS\) \| 集成电路材料全国重点实验室
 
@@ -42,7 +41,7 @@
 
 - 💾 **新型计算架构** \(PIM / IMC\)：存内计算、近内存计算等新型高能效计算架构
 
-- ⚡ **存储器架构与电路设计** \(Memory Architecture \& Circuit Design\)：易失性/非易失性存储器架构优化、存储核心电路设计、新型存储介质适配技术、存储器硬件安全
+- ⚡ **存储器架构与电路设计** \(Memory Architecture \& Circuit Design\)：存储器架构优化、存储电路设计、新型存储介质适配技术、存储器硬件安全
 
 ## 📬 联系与学术链接 \(Contact \& Links\)
 
